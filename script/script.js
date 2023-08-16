@@ -6,6 +6,8 @@
 
 //outputs
 
+//global variable
+
 //functions
 const init = ()=> {}
 
